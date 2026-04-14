@@ -34,7 +34,8 @@ It also enables comparison across product categories and identification of trend
 
 ## Dashboard Preview
 
-<img width="1882" height="974" alt="production dashboard" src="https://github.com/user-attachments/assets/057a314a-9647-4180-ac68-e84413616309" />
+<img width="1850" height="976" alt="Production dashboard" src="https://github.com/user-attachments/assets/b53c42f1-e6d6-4411-9433-d52e629092d7" />
+
 
 
 ---
